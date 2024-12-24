@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Nk6gbpyLmQ=",
+  "dgSpecHash": "sGBZY1divoM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Дан\\Documents\\GitHub\\DOCKER_API\\SocNet1\\SocNet1.csproj",
+  "projectFilePath": "C:\\Users\\Дан\\Documents\\GitHub\\DOCKER_API\\src\\SocNet1\\SocNet1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Дан\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Дан\\.nuget\\packages\\bouncycastle.cryptography\\2.5.0\\bouncycastle.cryptography.2.5.0.nupkg.sha512",
