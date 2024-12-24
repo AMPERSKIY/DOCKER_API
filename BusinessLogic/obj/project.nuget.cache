@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WnVBRLtE3Sg=",
+  "dgSpecHash": "63zT1IsXOhc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Дан\\Desktop\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\Дан\\Documents\\GitHub\\DOCKER_API\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Дан\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Дан\\.nuget\\packages\\bouncycastle.cryptography\\2.5.0\\bouncycastle.cryptography.2.5.0.nupkg.sha512",
