@@ -26,7 +26,7 @@ namespace SocNet1
             {
                 options.AddPolicy("MyPolicy", builder =>
                 {
-                    builder.WithOrigins("https://client-p275.onrender.com", "https://localhost:7175") // Разрешить запросы с этих доменов
+                    builder.WithOrigins("https://client-p275.onrender.com") 
                            .AllowAnyMethod()
                            .AllowAnyHeader();
                 });
